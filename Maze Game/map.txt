@@ -1,0 +1,2 @@
+Room A,Room B,Room C,
+Room A-Room B-NORTH,Room B-Room C-EAST,
